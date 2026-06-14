@@ -16,6 +16,7 @@ Top products and top customers identification
 ## How to Run 
 Open Superstore_Analysis.ipynb in Google Colab 
 Upload the Sample - Superstore.csv dataset
+
 Run all cells 
 ## Author 
 Sumaya Qadir | github.com/sumayaqadir
