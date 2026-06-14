@@ -5,7 +5,7 @@ Identified top 10 best-selling products and top 10 highest-value customers
 Analyzed sales trends across regions , categories, and time periods 
 Explored profit patterns to highlight high and low performing segments 
 ## Dataset 
-Samole Superstore dataset - 9, 994 orders, 21 columns including Sales, Profit, Category, Region, Customer details, and Order/Ship dates. 
+Sample Superstore dataset - 9, 994 orders, 21 columns including Sales, Profit, Category, Region, Customer details, and Order/Ship dates. 
 ## Tech Stack 
 Python , Pandas , numPy , Matplotlib, seaborn, Google Colab 
 ## Analysis Performed 
